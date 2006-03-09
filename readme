@@ -10,7 +10,7 @@ make install
 
 * Copyright
 
-Copyright (c) 2005 Josh Myer <josh@joshisanerd.com>
+Copyright (c) 2005,2006 Josh Myer <josh@joshisanerd.com>
 
 All rights reserved.  This file is released under either the Artistic
 License or the LGPL (version 2.1).  For more information, see
@@ -20,6 +20,8 @@ and
 
 
 * Thank yous
+A really big thank-you to Tercent, Inc., whose financial support was
+instrumental in creating the more complete data tables.
 
 - The iconv people: without them, I would have no data to stand on
 - A veritable horde of encoding-related websites for references

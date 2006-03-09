@@ -20,7 +20,7 @@ require DynaLoader;
 
 @ISA = qw(Exporter DynaLoader);
 
-@EXPORT = qw(new);
+@EXPORT = qw();
 
 @EXPORT_OK = qw();
 
